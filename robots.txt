@@ -1,2 +1,3 @@
 User-agent: *
 allow: *
+Sitemap: https://mvzchabeligomez.com.mx/sitemap.txt
